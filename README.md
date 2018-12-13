@@ -1,1 +1,1 @@
-open project/default/scenes to view files.
+Open 'project/default/scenes' to view files.
